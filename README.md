@@ -27,7 +27,20 @@ C is the perfect language to master memory, performance, and logic.
 *(I’ll update this table every few days.)*
 
 ## 🧩 Folder Structure
-<pre><code>```text 100DaysOfC/ ├── day01/ │ ├── hello_world.c │ └── README.md ├── day02/ │ ├── variables.c │ └── README.md ├── notes/ │ ├── pointers.md │ ├── memory_management.md │ └── syntax.md └── README.md ```</code></pre>
+```text
+100DaysOfC/
+├── day01/
+│   ├── hello_world.c
+│   └── README.md
+├── day02/
+│   ├── variables.c
+│   └── README.md
+├── notes/
+│   ├── pointers.md
+│   ├── memory_management.md
+│   └── syntax.md
+└── README.md
+```
 
 
 ## ⚙️ Tools & Setup
