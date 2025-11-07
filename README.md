@@ -17,12 +17,8 @@ C is the perfect language to master memory, performance, and logic.
 
 | Day | Topic / What I Learned | Code |
 |-----|-------------------------|------|
-| 1 | Hello World | [day01](day01) |
-| 2 | Variables & Data Types | [day02](day02) |
-| 3 | Control Flow | [day03](day03) |
-| 4 | Functions | [day04](day04) |
-| 5 | Arrays & Strings | [day05](day05) |
-| ... | ... | ... |
+| 1 | Hello World & Variables | [day01](day01) |
+| 2 | Data Types | [day02](day02) |
 
 *(I’ll update this table every few days.)*
 
