@@ -26,6 +26,25 @@ These are **built-in types** provided by C to store simple data.
 
 > ⚡ Note: Some data types may have **modifiers** like `signed`, `unsigned`, `long`, or `short` to adjust size and value range.
 
+---
+
+### 📝 `int` in Detail
+
+The `int` type is used to store **whole numbers** (no decimals). By default, it is **signed**, meaning it can store both negative and positive numbers.
+
+#### Modifiers for `int`
+| Modifier       | Description                             | Example                    |
+|----------------|-----------------------------------------|----------------------------|
+| `signed int`   | Default, can store negative & positive  | `signed int a = -10;`     |
+| `unsigned int` | Only stores positive numbers            | `unsigned int b = 10;`    |
+| `short int`    | Smaller range than default int          | `short int c = 32000;`    |
+| `long int`     | Larger range than default int           | `long int d = 1000000;`   |
+| `long long int`| Very large range                        | `long long int e = 1000000000;` |
+
+> ⚡ Tip: Choose the **smallest type that can hold your values** to save memory.
+
+
+
 ## 2️⃣ Derived Data Types
 
 Derived data types are **built from primitive types** and allow us to work with more complex data structures. They are essential for managing multiple values and memory in C.
