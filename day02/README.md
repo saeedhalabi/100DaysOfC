@@ -24,9 +24,23 @@
     int sum = add(5, 10);
     ```
 
+## 🧩 Additional Learning — C Library & IDE
+
+### 🏛️ C Library (`#include <stdio.h>`)
+Learned that the **C Standard Library** provides a collection of predefined functions (like `printf()` and `scanf()`) that help with **input/output**, **string manipulation**, and **math operations**.
+
+### 🧠 IDE (Integrated Development Environment)
+Explored how an **IDE** (like **Code::Blocks**, **Dev-C++**, or **VS Code**) helps write, compile, and run C programs easily by combining the **editor**, **compiler**, and **debugger** in one place.
+
+### ⚙️ Key Takeaways
+- Every C program needs:
+  - A **compiler** (e.g., GCC) to translate code into machine language.  
+  - The proper **header files** to use library functions correctly.
+
+
 ### 🗒️ Notes
 - Today’s session focused on understanding the **theory** behind functions — no coding examples were written yet.  
 - Learned why functions make code **reusable** and **easier to debug**.  
-- Learned about **function arguments** and **return types**.
+- Learned about **function arguments** and **return types**, and how **library functions** are available through **C headers**..
 
 ---
