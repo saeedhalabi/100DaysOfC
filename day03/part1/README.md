@@ -43,6 +43,10 @@ The `int` type is used to store **whole numbers** (no decimals). By default, it 
 
 > ⚡ Tip: Choose the **smallest type that can hold your values** to save memory.
 
+> ⚡ Note for other primitive types:  
+> - **float** and **double** store decimal numbers. Use `float` for smaller precision and `double` for higher precision. Modifiers like `long` can extend the range of `double`.  
+> - **char** stores single characters and can be signed or unsigned depending on your system. Arrays of `char` are used to store strings.  
+> - **_Bool** stores logical values (`0` for false, `1` for true). It usually takes 1 byte of memory. 
 
 
 ## 2️⃣ Derived Data Types
