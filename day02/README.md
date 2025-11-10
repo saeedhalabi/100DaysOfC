@@ -25,7 +25,7 @@
     ```
 
 ### 🗒️ Notes
-- Today’s session was focused on understanding the **theory** behind functions — no coding examples were written yet.
+- Today’s session was focused on understanding the **theory** behind functions, no coding examples were written yet.
 - Learned why functions make code reusable and easier to debug.
 
 ---
