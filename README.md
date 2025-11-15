@@ -22,6 +22,8 @@ C is the perfect language to master memory, performance, and logic.
 | 3 | Data types (part 1) | [day03](day03) |
 | 4 | Data types (part 2) | [day04](day04) |
 | 5 | Data types (part 3) | [day05](day05) |
+| 6 | Day Off — electricity outage because of the storm. Back tomorrow!|
+
 
 *(I’ll update this table every few days.)*
 
