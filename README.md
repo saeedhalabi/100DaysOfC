@@ -25,6 +25,7 @@ C is the perfect language to master memory, performance, and logic.
 | 6 | Day Off — electricity outage because of the storm. Back tomorrow!|
 | 7 | Data types (part 4) | [day07](day07) |
 | 8 | Sizeof(), Limits.h | [day08](day08) |
+| 9 | Modify Operators | [day09](day09) |
 
 
 *(I’ll update this table every few days.)*
