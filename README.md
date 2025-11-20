@@ -26,6 +26,7 @@ C is the perfect language to master memory, performance, and logic.
 | 7 | Data types (part 4) | [day07](day07) |
 | 8 | Sizeof(), Limits.h | [day08](day08) |
 | 9 | Modify Operators | [day09](day09) |
+| 10 | Control Statements - If Block  | [day10](day10) |
 
 
 *(I’ll update this table every few days.)*
